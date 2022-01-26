@@ -5,5 +5,5 @@ celcius_to_fahrenheit(28)
 
 def fahrenheit_to_celcius(z):
     w= (z-32)*(5/9)
-    print(w)
+    print(round(w))
 fahrenheit_to_celcius(82.4)    
